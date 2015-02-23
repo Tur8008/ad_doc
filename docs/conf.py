@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'ad_doc'
+project = 'Алкогольная декларация для 1С'
 copyright = '2015, ООО "Бизнес Интеллект С"'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -55,7 +55,7 @@ copyright = '2015, ООО "Бизнес Интеллект С"'
 # built documents.
 #
 # The short X.Y version.
-version = '1'
+version = '1.0'
 # The full version, including alpha/beta/rc tags.
 release = '1.0.1'
 
@@ -284,7 +284,7 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = 'ad_doc'
+epub_title = 'Алкогольная декларация для 1С'
 epub_author = 'ООО "Бизнес Интеллект С"'
 epub_publisher = 'ООО "Бизнес Интеллект С"'
 epub_copyright = '2015, ООО "Бизнес Интеллект С"'
